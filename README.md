@@ -23,7 +23,7 @@ Talk to me about
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://behance.net/bruno-alves)
-- ⚡ Fun fact: Internet users blink less than usual.
+- ⚡ Curious fact: I'm also UX Designer.
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=brunoalvesds&hide=["issues"]&show_icons=true)
 
