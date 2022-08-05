@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-brunoalvesds-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunoalvesds/)](https://www.linkedin.com/in/brunoalvesds/) [![Medium Badge](https://img.shields.io/badge/-@brunoalvesds-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@brunoalvesds/)](https://medium.com/brunoalvesds)
 [![Gmail Badge](https://img.shields.io/badge/-brunoalves.ds95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunoalves.ds95@gmail.com)](mailto:brunoalves.ds95@gmail.com)
 
-I am Bruno Alves 😃. I am from São Paulo, Brazil and currently doing my B.Tech from São Judas Tadeu University 🏫.I love to explore and learn about new things.
+I am Bruno Alves 😃. I am from São Paulo, Brazil and I done my B.Tech at São Judas Tadeu University 🏫.I love to explore and learn about new things.
 ## 👯 Communities
 * Microsoft Student Partner
 * GitHub Student Partner
