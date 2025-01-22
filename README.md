@@ -13,12 +13,12 @@ I am Bruno Alves 😃. I am from São Paulo, Brazil and I done my B.Tech at São
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript/Typescript,CSS, SCSS**
-- Backend development using **Node.js, Express**
+- Backend development using **Node.js, Express and Next**
 - Making for **Non-Relational Database Management Systems**
-- Desktop application development using **Angular(last) and Vue**(Still learning)
+- Web application development using **Angular(last), Vue, React and Next.js**
 - Mobile application development using **Ionic Framework**
 - Creating scalable cloud architecture using **Microsoft Azure Cloud**
-- Solving Data structure and algorithm questions in **Python and JavaScript**
+- Solving Data structure and algorithm questions in **JavaScript**
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
